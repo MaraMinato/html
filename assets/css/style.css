@@ -1,0 +1,26 @@
+#site{
+width: 1000px;
+height: 700px;
+margin-top: 0;
+margin-left: auto;
+margin-right: auto;
+background-color: green;
+}
+
+#header{
+width: 1000px;
+height: 50px;
+background-color: blue;
+}
+
+#conteudo{
+width: 1000px;
+height: 500px;
+background-color: yellow;   
+}
+
+#footer{
+width: 1000px;
+height: 50px;
+background-color:magenta; 
+}
